@@ -1,9 +1,9 @@
 <!-- <div align='center'> -->
-<h1>Facilitando o dia a dia</h1>
+<h1 align='center'>Facilitando o dia a dia</h1>
 
 ## Tecnologias usadas
 - JavaScript
-- Node.JS
+- Node.js
 - readlineSync
 
 ## Descrição
