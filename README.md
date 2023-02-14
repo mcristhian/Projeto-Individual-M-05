@@ -1,4 +1,4 @@
-<div align='center'>
+<!-- <div align='center'> -->
 <h1>Facilitando o dia a dia</h1>
 
 ## Tecnologias usadas
@@ -25,5 +25,4 @@ npm install
 # Inicie
 node index.js
 ```
-
-</div
+<!-- </div ->>
